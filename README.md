@@ -9,6 +9,6 @@ Python and its libraries was used to fetch data from the application programming
 
 # Conclusion
 API's are a good source of data.
-The aim of this projet was to improve how we work with json data obtained from API'S which was successful.
+The aim of this project was to improve how we work with json data obtained from API'S which was successful.
 
 # END
