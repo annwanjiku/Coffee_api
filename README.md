@@ -8,7 +8,5 @@ Python and its libraries was used to fetch data from the application programming
 2 files were created, one csv and another excel file to visualise the data that the api contains.
 
 # Conclusion
-API's are a good source of data.
 The aim of this project was to improve how we work with json data obtained from API'S which was successful.
 
-# END
