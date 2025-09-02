@@ -1,7 +1,7 @@
 # Coffee API
 
 # Problem
-To work with an API, what was used was a coffee API
+To work with an API
 
 # Working and Result
 Python and its libraries was used to fetch data from the application programming interface, display wanted and specific data, ask questions and answer them.
