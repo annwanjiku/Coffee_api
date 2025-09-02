@@ -1,4 +1,4 @@
-# COFFEE API
+# Coffee API
 
 # Problem
 To work with an API, what was used was a coffee API
